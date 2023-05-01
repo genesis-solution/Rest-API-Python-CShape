@@ -1,0 +1,12 @@
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Release\GUI.exe.config
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Release\GUI.exe
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Release\GUI.pdb
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.Properties.Resources.resources
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.exe
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.pdb
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.Form1.resources
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Release\Newtonsoft.Json.dll
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Release\Newtonsoft.Json.xml
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Release\GUI.csproj.CopyComplete
